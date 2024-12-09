@@ -1,0 +1,204 @@
+[
+  {
+    "image": "https://media.istockphoto.com/id/1455374627/photo/single-story-suburban-home-exterior-with-large-driveway.jpg?s=612x612&w=0&k=20&c=zF8yyXocuHJfp5oU4l3MFzW06C8ZQx2GSTb-O6k0N_I=",
+    "availability": "rent",
+    "title": "Compact Apartment with Modern Amenities",
+    "location": "Los Angeles, CA",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 2700,
+    "squareMeter": 70
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1676637000073-5829b51b85ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availability": "rent",
+    "title": "Modern Apartment Downtown",
+    "location": "New York, NY",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 3000,
+    "squareMeter": 100
+  },
+  {
+    "image": "https://unsplash.com/photos/a-building-with-many-windows-KNjI90w0ei4",
+    "availability": "rent",
+    "title": "Charming Loft in the City",
+    "location": "San Francisco, CA",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 2800,
+    "squareMeter": 80
+  },
+
+  {
+    "image": "https://unsplash.com/photos/brown-and-white-concrete-house-under-blue-sky-during-daytime-3Ignkeds3w8",
+    "availability": "rent",
+    "title": "Penthouse Suite with City View",
+    "location": "Miami, FL",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "price": 5000,
+    "squareMeter": 200
+  },
+  {
+    "image": "https://unsplash.com/photos/brown-and-white-wooden-house-near-green-trees-under-blue-sky-during-daytime-pvdx8c6Y5BY",
+    "availability": "sale",
+    "title": "Spacious Family Home",
+    "location": "Los Angeles, CA",
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "price": 1200000,
+    "squareMeter": 400
+  },
+
+  {
+    "image": "https://unsplash.com/photos/a-row-of-buildings-with-white-doors-and-windows-yFVBLtg0DrE",
+    "availability": "sale",
+    "title": "Modern Suburban House",
+    "location": "Seattle, WA",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "price": 750000,
+    "squareMeter": 250
+  },
+  {
+    "image": "https://unsplash.com/photos/a-row-of-buildings-with-balconies-and-a-blue-sky-MxN0eBYGDEs",
+    "availability": "rent",
+    "title": "Luxury Condo with Pool",
+    "location": "Orlando, FL",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "price": 3500,
+    "squareMeter": 180
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1676657955502-405b78e1e900?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGhvdXNlcyUyMGV4dGVyaW9yfGVufDB8fDB8fHww",
+    "availability": "sale",
+    "title": "Beachfront Property",
+    "location": "Malibu, CA",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "price": 8500000,
+    "squareMeter": 500
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1147674294/photo/single-family-new-construction-home-in-suburb-neighborhood-in-the-south.jpg?s=612x612&w=0&k=20&c=OamzEVBG9yuj7pPiRt1gefEXw0Onb6ByMVkMCO7nscw=",
+    "availability": "rent",
+    "title": "Cozy Cabin in the Woods",
+    "location": "Denver, CO",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 1800,
+    "squareMeter": 120
+  },
+  {
+    "image": "https://unsplash.com/photos/brown-and-white-concrete-house-under-blue-sky-during-daytime-XGvwt544g8k",
+    "availability": "sale",
+    "title": "Cozy Cottage by the Lake",
+    "location": "Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 250000,
+    "squareMeter": 150
+  },
+  {
+    "image": "https://www.istockphoto.com/photo/large-pool-in-front-of-a-white-house-in-encino-california-gm2155899949-576691499",
+    "availability": "sale",
+    "title": "Riverside Mansion",
+    "location": "Chicago, IL",
+    "bedrooms": 8,
+    "bathrooms": 7,
+    "price": 10000000,
+    "squareMeter": 600
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1322138245/photo/modern-family-villa.webp?a=1&b=1&s=612x612&w=0&k=20&c=HzFE0kMfOQScb0YxOQCG4QXQJkv_eZYcoSGHKuHfpyk=",
+    "availability": "rent",
+    "title": "Downtown Apartment with Balcony",
+    "location": "Washington, DC",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "price": 3200,
+    "squareMeter": 110
+  },
+  {
+    "image": "https://media.istockphoto.com/id/88621140/photo/exterior-of-modern-house.webp?a=1&b=1&s=612x612&w=0&k=20&c=QqwGzuz1oKbxiHZX1FY_xaq5iMyKC6TN7i6Uk28DvXs=",
+    "availability": "sale",
+    "title": "Country Home with Large Garden",
+    "location": "Nashville, TN",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "price": 500000,
+    "squareMeter": 270
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1540164261/photo/luxury-house-with-swimming-pool-at-night.jpg?s=612x612&w=0&k=20&c=Kn3PlF8SLKpfr23NV2DZbWWPrIQU5OBf6mwz4JXfWAE=",
+    "availability": "rent",
+    "title": "Studio Apartment in City Center",
+    "location": "Las Vegas, NV",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "price": 2200,
+    "squareMeter": 60
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1700606835/photo/swimming-pool-in-backyard-exterior-of-extraordinary-luxury-home.jpg?s=612x612&w=0&k=20&c=S4na148u94GsEcXneO2V3CfEZuhqSjNXl1e6jPgcuVo=",
+    "availability": "sale",
+    "title": "Grand Estate with Private Pool",
+    "location": "Palm Beach, FL",
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "price": 15000000,
+    "squareMeter": 700
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1368330586/photo/front-porch-and-entrance-to-new-home.jpg?s=612x612&w=0&k=20&c=h13209WqKTjXDnqNbcnQMMJo6evzmvzNeQlClRdL-jk=",
+    "availability": "rent",
+    "title": "Elegant Townhouse",
+    "location": "Boston, MA",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 2800,
+    "squareMeter": 140
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1743685173/photo/a-beautiful-deck-with-round-wicker-armchairs-outdoor-string-lights-and-a-nature-view-at-night.jpg?s=612x612&w=0&k=20&c=7sFNB3cPE-q4vhCO65bWIdXAo4qRquIF8ksWftX-z2I=",
+    "availability": "sale",
+    "title": "Victorian House with Charm",
+    "location": "Portland, OR",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "price": 980000,
+    "squareMeter": 320
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1328718838/photo/luxury-hotel-modern-interior-bedroom-with-large-windows-winter-scene-mountain-forest.jpg?s=612x612&w=0&k=20&c=vobdhGY51Uov2JpI8iy23XyNTtw4okQeH7Hs-vXyebg=",
+    "availability": "rent",
+    "title": "Luxury Penthouse",
+    "location": "Dallas, TX",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "price": 5500,
+    "squareMeter": 210
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1755445620/photo/row-of-single-story-homes.jpg?s=612x612&w=0&k=20&c=TIW83XnRO3eJ91aqs2x9Ot2lGL1E5IqQddEk4Dv4yLY=",
+    "availability": "sale",
+    "title": "Historical House in Downtown",
+    "location": "Savannah, GA",
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "price": 2200000,
+    "squareMeter": 400
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605146768851-eda79da39897?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2VzJTIwZXh0ZXJpb3J8ZW58MHx8MHx8fDA%3D",
+    "availability": "sale",
+    "title": "Luxurious Villa in Beverly Hills",
+    "location": "Beverly Hills, CA",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "price": 4500,
+    "squareMeter": 300
+  }
+]
